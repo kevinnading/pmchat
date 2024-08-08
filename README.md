@@ -1,0 +1,1 @@
+All you need is python and pygame installed, then the two files server.py and client.py. start the server by running "python server.py" then the same for the client "python client.py" its easy to figure out how to change the ip if you want to send the client to friends and use a centralized server etc. check out the png and mp4 files to see it in action
